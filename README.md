@@ -1,2 +1,2 @@
 # GEODATA
-Proyectos geoespaciales en general
+Proyectos geoespaciales con machine learning y deep learning
