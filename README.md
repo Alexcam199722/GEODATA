@@ -10,3 +10,8 @@ Usando este repositorio, los usuarios pueden explorar diferentes proyectos geoes
 ## Contribuciones
 Se aceptan contribuciones de la comunidad. Si deseas agregar un nuevo proyecto o mejorar uno existente. 
 
+## Canal de videos
+_Estaré subiendo videos explicativos de los proyectos a mi canal de youtube, este es el enlace por si lo desean ver:_\
+<https://youtube.com/@alex-bi6bs?si=Y9vWOjuDoMs2qxna> 
+
+![alt text](image.png)
